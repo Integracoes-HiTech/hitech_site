@@ -82,7 +82,7 @@ export default function HeroSection() {
           transition={{ duration: 0.6, delay: 0.1 }}
           className="inline-block mb-8 px-6 py-2 rounded-full border border-blue-500/30 bg-gradient-to-r from-blue-500/20 to-indigo-500/20 backdrop-blur-sm text-white/90 font-medium"
         >
-          Desenvolvimento Web de Alto Padrão
+          
         </motion.span>
 
         {/* Título animado */}
