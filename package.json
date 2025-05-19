@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy-dev": "git add . && git commit -m \"Deploy automático\" && git push"
   },
   "dependencies": {
     "@base44/sdk": "^0.1.2",
