@@ -8,10 +8,10 @@ import Home from "./Home";
 import ClienteLogin from "./ClienteLogin";
 import Dashboard from "./Dashboard";
 import Files from "./Files";
-import Contracts from "./contracts";
-import Payments from "./payments";
+import Contracts from "./Contracts";
+import Payments from "./Payments";
 import Support from "./Support";
-import Notifications from "./notifications";
+import Notifications from "./Notifications";
 import ProjectDetails from "./ProjectDetails"; // ✅ sem proteção
 import PortfolioSection from "@/components/PortfolioSection";// ✅ sem proteção
 import NovoTicket from "@/pages/NovoTicket";
