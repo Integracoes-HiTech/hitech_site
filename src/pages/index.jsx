@@ -7,10 +7,10 @@ import Layout from "./Layout.jsx";
 import Home from "./Home";
 import ClienteLogin from "./ClienteLogin";
 import Dashboard from "./Dashboard";
-import Files from "./files";
+import Files from "./Files";
 import Contracts from "./contracts";
 import Payments from "./payments";
-import Support from "./support";
+import Support from "./Support";
 import Notifications from "./notifications";
 import ProjectDetails from "./ProjectDetails"; // ✅ sem proteção
 import PortfolioSection from "@/components/PortfolioSection";// ✅ sem proteção
